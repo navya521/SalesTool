@@ -13,5 +13,7 @@ public class Data {
 	public static void displayGreeting(){
 		System.out.println("Hello");
 		System.out.println("welcome to sales data");
+		
+		System.out.println("Test1");
 	}
 }
